@@ -1,3 +1,3 @@
 var a=0;
 var b=0;
-console.log(a+B)
+console.log(a+b)
